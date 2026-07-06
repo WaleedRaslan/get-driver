@@ -1,8 +1,8 @@
-# 🚖 MyDriver
+# 🚖GetDriver
 
 <div align="center">
 
-# 🚖 MyDriver
+# 🚖 GetDriver
 
 ### AI-Powered Ride-Hailing Application
 
